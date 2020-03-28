@@ -1,0 +1,5 @@
+baseURL = "https://www.deliciouscake.me/"
+languageCode = "en-us"
+title = "Delicious Cake"
+theme = "ananke"
+publishDir = "docs/"
